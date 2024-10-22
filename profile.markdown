@@ -22,6 +22,7 @@ permalink: /profile/
 |:-----------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
 | [pimage](https://github.com/rahmatnazali/pimage){:target="_blank"}           | Pure python copy move detection script for digital image                                                                             |
 | [spireslayer](https://github.com/rahmatnazali/spireslayer){:target="_blank"} | Python programmable save editor for [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/){:target="_blank"} 😃 |
+| [moodle](https://github.com/trubusoft/moodle){:target="_blank"}              | Production-ready Moodle stack with docker compose                                                                                    |
 | [pydantic](https://github.com/pydantic/pydantic){:target="_blank"}           | Data validation using Python type hints                                                                                              |
 | [godot](https://github.com/godotengine/godot){:target="_blank"}              | Open source & highly popular game engine                                                                                             |
 | [godot-docs](https://github.com/godotengine/godot-docs){:target="_blank"}    | Live documentation for godot                                                                                                         |
