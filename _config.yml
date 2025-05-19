@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rahmat's Blog 🌵
+title: Big Little Shelter 🏕️
 full_name: Rahmat Nazali Salimi
 email: rahmatnazali95@gmail.com
-description: Rahmat's personal blog for documenting his life and coding journey.
+description: Documenting my nomadic life and coding journey
 baseurl: ""
-url: "https://rahmatnazali.github.io"
+url: "https://rnazali.github.io"
 google_analytics: G-14GYDRDZNH
-disqus:
-  shortname: rahmatnazali
-  enable: false
+#disqus:
+#  shortname: rnazali
+#  enable: false
 
-github_username:  "rahmatnazali"
+#github_username:  "rnazali"
 #linkedin_username: "..."
 #youtube_username:  "@..."
 #twitter_username: "..."
@@ -40,6 +40,9 @@ header_pages:
   - about.markdown
 
 theme: minima
+minima:
+  skin: solarized
+
 plugins:
   - jekyll-feed
 

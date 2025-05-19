@@ -12,4 +12,4 @@ as a Software Developer - and as the head of our small family.
 You will find some tech articles and occasionally some life-related experiences. 
 Trying my best not to include the boring one.
 
-The code of this blog is kept open in [this repository](https://github.com/rahmatnazali/rahmatnazali.github.io){:target="_blank"}, so feel free to use it or contact me for any discussion!
+The code of this blog is kept open in [this repository](https://github.com/rnazali/rnazali.github.io){:target="_blank"}, so feel free to use it or contact me for any discussion!

@@ -180,7 +180,7 @@ So this is basically just like [Java's Thymeleaf](https://www.thymeleaf.org/),
 or [Django's DTL](https://docs.djangoproject.com/en/4.2/topics/templates/).
 
 You can override anything by including the exact file you want to override inside the repo. For starter, 
-[on this site](https://github.com/rahmatnazali/rahmatnazali.github.io/tree/main/_includes),
+[on this site](https://github.com/rnazali/rnazali.github.io/tree/main/_includes),
 I've overridden `footer.html` by including a file with exact name with exact path according to the currently 
 used theme (which is [minima-2.5.1](https://github.com/jekyll/minima/releases/tag/v2.5.1)).
 

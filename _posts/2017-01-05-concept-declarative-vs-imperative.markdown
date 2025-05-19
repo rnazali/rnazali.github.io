@@ -103,5 +103,5 @@ spec:
 ```
 
 We can run the script once, multiple time during spinning up process, 
-por even running multiple time after the whole stack finished & ready,
+or even running multiple time after the whole stack finished & ready,
 the end state will always be the same.

@@ -5,28 +5,28 @@ permalink: /profile/
 ---
 
 
-|                       ![super handsome guy](/assets/profile/me.jpeg)                        | 
-|:-------------------------------------------------------------------------------------------:| 
-|   **Rahmat** Nazali Salimi (He/Him)<br/> Web/DevOps/Game Developer<br/>Indonesia (UTC+7)    |
+|                       ![super handsome guy](/assets/profile/me.jpeg)                       | 
+|:------------------------------------------------------------------------------------------:| 
+|                  **Rahmat** Nazali Salimi (He/Him)<br/>Indonesia (UTC+7)                   |
 
-#### Experiences
-- Language: C/C++, **Python**, Java, **Rust**, JS
-- Web Framework: Flask, **Django/DRF**, Rails, **Spring Boot**
+#### Past Experiences
+- Language: C/C++, Python, Java, **Rust**, JS
+- Web Framework: Flask, Django/DRF, Spring Boot
 - Frontend Framework: React/Next, Vue
-- DevOps: Advanced **Git**, **Docker**, **Kubernetes**, CI/CD
-- Game Engine: **Bevy**, **Godot/GDScript**, libGDX
+- DevOps: Advanced Git, Docker, Kubernetes, and managing CI/CD pipelines
+- Game Engine: **Bevy**, Godot, libGDX
 
 #### Open Source Contributions
 
-| Project Name                                                                 | Description                                                                                                                          |
-|:-----------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| [pimage](https://github.com/rahmatnazali/pimage){:target="_blank"}           | Pure python copy move detection script for digital image                                                                             |
-| [spireslayer](https://github.com/rahmatnazali/spireslayer){:target="_blank"} | Python programmable save editor for [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/){:target="_blank"} 😃 |
-| [moodle](https://github.com/trubusoft/moodle){:target="_blank"}              | Production-ready Moodle stack with docker compose                                                                                    |
-| [pydantic](https://github.com/pydantic/pydantic){:target="_blank"}           | Data validation using Python type hints                                                                                              |
-| [godot](https://github.com/godotengine/godot){:target="_blank"}              | Open source & highly popular game engine                                                                                             |
-| [godot-docs](https://github.com/godotengine/godot-docs){:target="_blank"}    | Live documentation for godot                                                                                                         |
-| [rustrawi](https://github.com/rahmatnazali/rustrawi){:target="_blank"}       | Rust port of the original [Sastrawi](https://github.com/sastrawi/sastrawi){:target="_blank"}                                         |
+| Project Name                                                              | Description                                                                                                                          |
+|:--------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| [pimage](https://github.com/rnazali/pimage){:target="_blank"}             | Pure python copy move detection script for digital image                                                                             |
+| [spireslayer](https://github.com/rnazali/spireslayer){:target="_blank"}   | Python programmable save editor for [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/){:target="_blank"} 😃 |
+| [moodle](https://github.com/trubusoft/moodle){:target="_blank"}           | Production-ready Moodle stack with docker compose                                                                                    |
+| [pydantic](https://github.com/pydantic/pydantic){:target="_blank"}        | Data validation using Python type hints                                                                                              |
+| [godot](https://github.com/godotengine/godot){:target="_blank"}           | Open source & highly popular game engine                                                                                             |
+| [godot-docs](https://github.com/godotengine/godot-docs){:target="_blank"} | Live documentation for godot                                                                                                         |
+| [rustrawi](https://github.com/rnazali/rustrawi){:target="_blank"}         | Rust port of the original [Sastrawi](https://github.com/sastrawi/sastrawi){:target="_blank"}                                         |
 
 #### Work Experiences
 

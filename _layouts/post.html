@@ -22,6 +22,7 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
+{% comment %}}
 <p>---</p>
 
 <section>
@@ -29,6 +30,7 @@ layout: default
     You can <a href="mailto:rahmatnazali95@gmail.com?subject=Reply to: {{page.title}}" target="_blank">reply by email.</a>
   </p>
 </section>
+{% endcomment %}
 
 {% if site.disqus.shortname and site.disqus.enable %}
   {% include disqus_comments.html %}

@@ -20,7 +20,7 @@ This year's [Game Off 2023](https://itch.io/jam/game-off-2023){:target="_blank"}
 Naturally, I'm not aiming to be the #1 developer, but rather to demonstrate 
 whether I could create & finish something that are playable, with optimization and immersion deliberately left behind.
 
-In around 16 days, I [coded](https://github.com/rahmatnazali/colonite){:target="_blank"} a simple unit simulation with a generic finite state machine.
+In around 16 days, I [coded](https://github.com/rnazali/colonite){:target="_blank"} a simple unit simulation with a generic finite state machine.
 The unit can switch its state according to the surrounding situation, and we (the user) basically just watching them going against each other.
 
 In Godot, a state machine implementation looks like this:

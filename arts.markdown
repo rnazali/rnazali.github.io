@@ -40,6 +40,9 @@ List of self-curated "arts" 🙂 Currently in no particular order.
 |:------------------------------------------:|
 |      Dad, let's take a walk together!      |
 
+
+### Other doodle with no context
+
 | ![](/assets/arts/img20240423_07544034.jpg) |
 |:------------------------------------------:|
 |                                            |
