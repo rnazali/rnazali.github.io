@@ -21,23 +21,14 @@
 title: Big Little Shelter 🏕️
 full_name: Rahmat Nazali Salimi
 email: rahmatnazali95@gmail.com
-description: Documenting my nomadic life and coding journey
+description: Mengabadikan aneka cerita di tengah ketidakjelasan hidup 😬
 baseurl: ""
 url: "https://rnazali.github.io"
 google_analytics: G-14GYDRDZNH
-#disqus:
-#  shortname: rnazali
-#  enable: false
-
-#github_username:  "rnazali"
-#linkedin_username: "..."
-#youtube_username:  "@..."
-#twitter_username: "..."
+github_username:  "rnazali"
 
 header_pages:
-  - arts.markdown
-  - profile.markdown
-  - about.markdown
+  - doodle.markdown
 
 theme: minima
 minima:

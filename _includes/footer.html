@@ -1,27 +1,24 @@
 <footer class="site-footer h-card">
-    <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
+    <data class="u-url" href="{{ '/' | relative_url }}"></data>
     <div class="wrapper">
-
-        <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
         <div class="footer-col-wrapper">
             <div class="footer-col footer-col-3">
-                {{ site.full_name }}
-                {%- if site.email -%}
-                <ul class="contact-list">
-                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                </ul>
-                {%- endif -%}
-
-                {%- include social.html -%}
+                <h2 class="footer-heading">{{ site.title | escape }}</h2>
+                <p>{{- site.description | escape -}}</p>
             </div>
 
             <div class="footer-col footer-col-3">
-                <p>{{- site.description | escape -}}</p>
+                {{ site.full_name }}
+                <ul class="contact-list">
+                    <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    <li>
+                        <a href="https://github.com/rnazali">
+                            <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
+                            <span class="username">rnazali</span>
+                        </a>
+                    </li>
+                </ul>
             </div>
         </div>
-
     </div>
-
 </footer>

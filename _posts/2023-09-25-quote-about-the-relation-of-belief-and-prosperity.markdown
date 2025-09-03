@@ -2,7 +2,6 @@
 layout: post
 title:  "Beautiful quote about the relation between belief and prosperity"
 date:   2023-09-25 07:19:27 +0700
-language: indonesian
 ---
 
 So I've randomly found this quote by [Awan Gunawan](https://www.instagram.com/pacorstory/){:target="_blank"} about the relation 
