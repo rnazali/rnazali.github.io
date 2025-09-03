@@ -31,8 +31,6 @@ header_pages:
   - doodle.markdown
 
 theme: minima
-minima:
-  skin: solarized
 
 plugins:
   - jekyll-feed
