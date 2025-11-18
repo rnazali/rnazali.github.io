@@ -35,7 +35,7 @@ jobs:
         id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
-          # name needs to be letter locl, or it won't work
+          # name needs to be letter lock, or it won't work
           name: github-pages
           path: _site
   deploy:
