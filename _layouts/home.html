@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ site.data.common.title }}</title>
+
+    <!-- Minified simple.css -->
+    <link rel="stylesheet" href="/assets/css/simple.min.css">
+
+    <!-- custom.css -->
+    <link rel="stylesheet" href="/assets/css/custom.css">
+</head>
+<body>
+<header>
+    {% include navigation.html %}
+    <div class="site-branding">{{ site.data.common.title }}</div>
+    <p>{{ site.data.common.subtitle }}</p>
+</header>
+<main>
+    {{ content }}
+</main>
+<footer>
+    {% include footer_created_by.html %}
+</footer>
+</body>
+</html>
