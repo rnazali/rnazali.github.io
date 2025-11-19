@@ -2,3 +2,9 @@
     font-size: 3rem;
     font-weight: bold;
 }
+
+.post-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
