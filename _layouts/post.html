@@ -14,7 +14,7 @@
 </head>
 <body>
 <header>
-    {% include navigation_home.html %}
+    {% include navigation.html %}
     <div class="site-branding">{{ site.data.common.title }}</div>
     <p>{{ site.data.common.subtitle }}</p>
 </header>
@@ -23,7 +23,7 @@
     <p>{{ page.date | date_to_string }}</p>
     {{ content }}</main>
 <footer>
-    {% include footer_created_by.html %}
+    {% include footer.html %}
 </footer>
 </body>
 </html>
