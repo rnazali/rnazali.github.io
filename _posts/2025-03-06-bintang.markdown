@@ -11,7 +11,7 @@ category: tenda
 
 <details>
     <summary>Lebih lanjut tentang <em>lagu</em> ini</summary>
-    <p>Lagu ini dinyanyikan oleh 新谷良子 dengan judul 星.</p>
+    <p>Lagu oleh 新谷良子 berjudul 星.</p>
 
 <pre>
 <code>
