@@ -1,6 +1,8 @@
-.site-branding {
+.branding {
     font-size: 3rem;
     font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .header {
