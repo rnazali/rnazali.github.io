@@ -3,6 +3,10 @@
     font-weight: bold;
 }
 
+.header {
+    padding-bottom: 1rem;
+}
+
 .post-list {
     list-style-type: none;
     padding: 0;
