@@ -36,6 +36,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # name needs to be letter lock, or it won't work
+          # see https://github.com/actions/upload-pages-artifact#artifact-validation
           name: github-pages
           path: _site
   deploy:
