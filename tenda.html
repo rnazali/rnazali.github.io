@@ -93,14 +93,16 @@ layout: default
 
 <ul class="post-list">
     {% for post in site.posts %}
-    <li>
-        <h2 class="post-title">
-            <a href="{{ post.url }}">
-                {{ post.title }}
-            </a>
-        </h2>
-        {{ post.excerpt }}
-    </li>
+        {% if post.categories contains "tenda" %}
+        <li>
+            <h2 class="post-title">
+                <a href="{{ post.url }}">
+                    {{ post.title }}
+                </a>
+            </h2>
+            {{ post.excerpt }}
+        </li>
+        {% endif %}
     {% endfor %}
 </ul>
 
