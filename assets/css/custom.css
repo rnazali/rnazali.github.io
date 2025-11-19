@@ -7,6 +7,11 @@
     padding-bottom: 1rem;
 }
 
+.subtitle {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .post-list {
     list-style-type: none;
     padding: 0;
