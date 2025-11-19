@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include analytics.html %}
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ site.data.common.title }}</title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+    <!-- Minified simple.css -->
+    <link rel="stylesheet" href="/assets/css/simple.min.css">
+
+    <!-- custom.css -->
+    <link rel="stylesheet" href="/assets/css/custom.css">
+</head>
+<body>
+<header class="header">
+    <div class="branding">{{ site.data.common.branding }}</div>
+    <p class="subtitle">{{ site.data.common.subtitle }}</p>
+</header>
+<main>
+    {{ content }}
+</main>
+<footer>
+    {% include footer.html %}
+</footer>
+</body>
+</html>

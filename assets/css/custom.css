@@ -1,0 +1,35 @@
+.navigation {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.branding {
+    font-size: 3rem;
+    font-weight: bold;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.header {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.subtitle {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.post-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.post-title {
+    /*font-family: "Abyssinica SIL", "Nimbus Sans", "sans-serif";*/
+}
+
+.me-1 {
+    margin-right: 0.25rem;
+}

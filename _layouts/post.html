@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1 class="post-title">{{ page.title }}</h1>
+<p style="color: grey">{{ page.date | date: "%-d %B %Y" }}</p>
+{{ content }}
+
+{% if page.categories contains "tenda" %}
+<a class="button" href="/tenda.html" style="margin-top: 2rem;">
+    <span class="me-1">🏕️</span>
+    Ia sadar belum juga tertidur
+</a>
+{% elsif page.categories contains "mimpi" %}
+<a class="button" href="/mimpi.html" style="margin-top: 2rem;">
+    <span class="me-1">🌙</span>
+    Malam masih terlalu panjang untuknya
+</a>
+{% endif %}

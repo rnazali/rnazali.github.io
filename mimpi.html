@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+<p class="notice">WIP dunia mimpi</p>
+
+
+
+
+<p>
+    Di tengah lelap tidurnya, di dalam tenda yang dinginnya tak mampu menembus mimpi, ia terbaring tenang. Napasnya mengalir perlahan, naik-turun dengan ritme yang jauh lebih damai daripada hatinya di dunia nyata. Dan di balik kelopak mata yang tertutup rapat, sebuah dunia lain terbuka—dunia yang hanya mau hadir saat ia tak berdaya melawannya.
+</p>
+
+<p>
+    Dalam mimpinya, angin tidak lagi mengguncang tenda. Angin berubah menjadi hembusan hangat yang membawa aroma rumah, aroma tempat yang selama ini hanya bisa ia ingat, bukan ia pulang. Di sana, ia melihat dirinya berjalan di antara hal-hal yang selama ini ia inginkan: jalan yang tidak lagi sunyi, senyum-senyum yang menyambutnya, tangan-tangan yang tidak melepaskannya begitu saja.
+</p>
+
+<p>
+    Ia bermimpi tentang percakapan yang tidak berakhir dengan penyesalan. Tentang langkah-langkah yang lebih ringan, masa depan yang tidak menakutkan. Tentang seseorang yang menatapnya tanpa pergi, tanpa ragu. Di mimpi itu, semuanya terasa begitu mungkin, begitu dekat, begitu nyata hingga rasanya ia bisa menyentuhnya jika ia mengulurkan tangan sedikit saja.
+</p>
+
+<p>
+    Namun setiap kali ia mencoba mendekat, dunia itu bergerak menjauh selangkah. Seperti bayangan yang memudar saat disentuh cahaya. Seperti udara hangat yang hilang ketika ia ingin menggenggamnya.
+</p>
+
+<p>
+    Bahkan di dalam mimpinya, ia tahu itu hanyalah mimpi. Ada bagian kecil dari dirinya—bagian yang paling jujur, paling rapuh—yang berbisik bahwa semua ini terlalu manis untuk menjadi kenyataan. Tapi ia tetap melangkah, tetap memeluk harapan itu, meski ia tahu tidak ada jembatan yang bisa membawanya ke sana saat ia terbangun nanti.
+</p>
+
+<p>
+    Di dunia mimpinya, ia adalah versi dirinya yang lebih berani, lebih utuh, lebih dicintai. Dan meskipun ia tahu semua itu akan luruh bersama terbitnya matahari, ia tetap bertahan di sana selama ia bisa.
+</p>
+
+<p>
+    Karena di balik dingin yang merayap di luar tenda, di balik kerasnya kenyataan yang menunggunya esok hari, mimpi itu adalah satu-satunya tempat di mana ia boleh berharap tanpa takut kecewa.
+</p>
+
+<p>
+    Dan di sana, di dunia yang hanya hidup saat ia tertidur, ia mengumpulkan keberanian yang tak pernah ia temukan ketika ia terjaga. Meskipun jauh dari kenyataan, mimpi itu tetap menjadi rumah yang tak pernah benar-benar ia miliki—namun selalu ia rindukan.
+</p>
+
+<details>
+    <summary>Sebelum ia makin tenggelam dalam mimpinya</summary>
+    <p>
+        Mungkin ia ingin terbangun dari tidurnya.</p>
+    <a class="button" href="/tenda.html">
+        <span class="me-1">🏕️</span>
+        Bangun dari tidur
+    </a>
+</details>
+
+<ul class="post-list">
+    {% for post in site.posts %}
+    {% if post.categories contains "mimpi" %}
+    <li>
+        <h2 class="post-title">
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </h2>
+        {{ post.excerpt }}
+    </li>
+    {% endif %}
+    {% endfor %}
+</ul>
