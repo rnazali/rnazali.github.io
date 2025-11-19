@@ -1,4 +1,8 @@
 <nav>
-    <a href="/">🔥</a>
-    <a href="/cerita">🏕️</a>
+    {% for item in site.data.navigation %}
+    <a href="{{ item.link }}">
+        <span class="me-1">{{ item.name }}</span>
+        {{ item.description }}
+    </a>
+    {% endfor %}
 </nav>
