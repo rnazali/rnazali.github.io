@@ -5,7 +5,9 @@ on:
   push:
     branches:
       - main
-      - setup
+  pull_request:
+    branches:
+      - main
 
 permissions:
   id-token: write
