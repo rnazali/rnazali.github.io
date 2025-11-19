@@ -2,17 +2,34 @@
 layout: default
 ---
 
-<p>
-    Termenung di dalam hangatnya tenda,
-    tempatku asyik bercerita
-    segala hal yang tak sempat terucap lisan.
-</p>
+<section>
+    <figure>
+        <img src="/assets/images/autumn-tree.gif" alt="autumn-tree">
+        <figcaption>Daun berguguran oleh <a href="https://www.artstation.com/artwork/YaRq9K">Westen Fry</a>.</figcaption>
+    </figure>
 
-<ul class="post-list">
-    {% for post in site.posts %}
-    <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        {{ post.excerpt }}
-    </li>
-    {% endfor %}
-</ul>
+    <p>
+        Sembari menutup kain pintu tenda,
+        terdengar suara angin malam menggugurkan daun-daun di musim semi.
+        Hangatnya api unggun yang perlahan terganti dengan
+        hawa lembap tenda.
+    </p>
+
+    <p>
+        Diriku termenung,
+        sedih ku jauh dari terkasih,
+        senang ku tiba saatnya asyik bercerita -
+        aneka macam hal yang tak sempat terucap lisan.
+    </p>
+</section>
+
+<section>
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            {{ post.excerpt }}
+        </li>
+        {% endfor %}
+    </ul>
+</section>
