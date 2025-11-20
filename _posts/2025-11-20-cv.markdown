@@ -12,7 +12,7 @@ permalink: /cv/
     <figcaption>Hi, thanks for coming by!</figcaption>
 </figure>
 
-<p class="notice">Currently interested in: django, game development.</p>
+<p class="notice">Currently interested in: django and game development.</p>
 
 
 #### Experiences
