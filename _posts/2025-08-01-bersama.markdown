@@ -1,0 +1,12 @@
+---
+layout: post
+category: tenda
+title: Bersama
+---
+
+Dapat coretan lucu, terima kasih ya ❤️😊
+
+<figure>
+    <img src="/assets/2025-08-01/together.png" alt="bersama">
+    <figcaption><em>"yang ada lingkaran itu aku pakai topi"</em></figcaption>
+</figure>

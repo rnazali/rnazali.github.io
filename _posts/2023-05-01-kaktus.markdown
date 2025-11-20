@@ -1,0 +1,23 @@
+---
+layout: post
+title:  Kaktus
+category: tenda
+---
+
+Aku punya kaktus baru!
+
+Sepertinya dia yang akan menemani sesi koding selama 2-3 tahun kedepan.
+Semoga panjang umur ya!
+
+<figure>
+    <img src="/assets/2023-05-01/trubus.jpg" alt="trubus">
+    <figcaption>Namaku Trubus, biasa dipanggil Trubus the Cactus!</figcaption>
+</figure>
+
+
+
+<details>
+    <summary>Update</summary>
+    <p>Trubus mati karena busuk akar setelah sekitar 2 bulan menemani 😞</p>
+    <p><em>(sad trombone 🎺)</em></p>
+</details>

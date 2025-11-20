@@ -3,4 +3,7 @@
   description: Api Unggun
 - name: 🏕️
   link: /tenda
-  description: Istirahat
+  description: Tenda
+- name: 🌙
+  link: /mimpi
+  description: Mimpi
