@@ -4,13 +4,19 @@ title:  Bintang
 category: tenda
 ---
 
+Ku ingin dengan mudah menyampaikan perasaanku,
+layaknya bintang-bintang yang dengan mudahnya saling menyapa dengan sinaran cahayanya.
+
+Berbagai perasaanku dengan aneka warna-warni ini,
+ingin suatu saat bisa tersampaikan padamu.
+
 <figure>
     <img src="/assets/2025-03-06/star.png" alt="star">
     <figcaption>空に星が寄り添い合う様に 想いあなたに伝わるといいな 😊</figcaption>
 </figure>
 
 <details>
-    <summary>Lebih lanjut tentang <em>lagu</em> ini</summary>
+    <summary>Referensi</summary>
     <p>Lagu oleh 新谷良子 berjudul 星.</p>
 
 <pre>
