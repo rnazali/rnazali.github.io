@@ -12,9 +12,13 @@
 {% else %}
 {{ site.data.common.title }}
 {% endif %}
-
-
 </title>
+
+{% if page.excerpt %}
+<meta name="description" content="{{ page.excerpt }}">
+{% endif %}
+
+
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
