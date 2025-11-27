@@ -15,7 +15,7 @@
     </title>
 
     {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt }}">
+    <meta name="description" content="{{ page.excerpt | strip_html }}">
     {% endif %}
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
