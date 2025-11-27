@@ -7,18 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>
-{% if page.title %}
-{{ page.title }} | {{ site.data.common.title }}
-{% else %}
-{{ site.data.common.title }}
-{% endif %}
-</title>
+    {% if page.title %}
+        {{ page.title }} | {{ site.data.common.title }}
+    {% else %}
+        {{ site.data.common.title }}
+    {% endif %}
+    </title>
 
-{% if page.excerpt %}
-<meta name="description" content="{{ page.excerpt }}">
-{% endif %}
-
-
+    {% if page.excerpt %}
+    <meta name="description" content="{{ page.excerpt }}">
+    {% endif %}
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
