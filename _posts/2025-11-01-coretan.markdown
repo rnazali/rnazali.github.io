@@ -7,6 +7,10 @@ title: Coretan
 List of self-curated "arts" 🙂
 Currently in no particular order.
 
+<figure>
+    <img src="/assets/2025-11-01/apoteker.png" alt="apoteker">
+    <figcaption>Silakan dibeli obatnya!</figcaption>
+</figure>
 
 <figure>
     <img src="/assets/2025-11-01/img20240423_08031894.jpg" alt="coretan">
