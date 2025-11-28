@@ -6,13 +6,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>
     {% if page.title %}
-        {{ page.title }} | {{ site.data.common.title }}
+        <title>{{ page.title }} | {{ site.data.common.title }}</title>
     {% else %}
-        {{ site.data.common.title }}
+        <title>{{ site.data.common.title }}</title>
     {% endif %}
-    </title>
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt | strip_html }}">
