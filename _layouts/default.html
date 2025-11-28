@@ -8,6 +8,7 @@
 
     {% if page.title %}
         <title>{{ page.title }} | {{ site.data.common.title }}</title>
+        <meta property="og:title" content="{{ page.title }}">
     {% else %}
         <title>{{ site.data.common.title }}</title>
     {% endif %}
