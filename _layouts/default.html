@@ -16,6 +16,7 @@
     {% if page.excerpt %}
         <meta name="description" content="{{ page.excerpt | strip_html }}">
         <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+        <meta property="og:url" content="{{ page.url | relative_url }}">
     {% endif %}
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
