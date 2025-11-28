@@ -2,6 +2,7 @@
 layout: post
 category: tenda
 title:  Talok
+image: /assets/2025-11-21/talok.png
 ---
 
 Sebagian orang menganggapnya merepotkan.
@@ -23,3 +24,15 @@ Dahan dan tangkai yang berayun-ayun saat diduduki.
 Aroma air hujan yang kadang masih tersisa, menempel di sela dedaunan, menambah keunikan rasa dari buahnya.
 
 Andai aku masuk surga dan dapat kesempatan untuk meminta seperti apa tempat tinggal yang kuinginkan, aku ingin tanah lapang dengan pohon talok ditengahnya 😁
+
+<figure>
+    <img src="/assets/2025-11-21/talok.png" alt="talok">
+    <figcaption>
+        Terpikirkah olehnya, bahwa secara teori manusia tidak mungkin
+        pohon talok bisa tumbuh dari celah dinding batu.
+        Kalaupun bisa, mungkin ajalnya hanya hitungan bulan atau tahun.
+        Tidak mungkin ia bisa tumbuh sampai besar bukan?
+        Tapi rezeki dan ajal bukan di tangan manusia.
+        Mungkin ia mengetahuinya dan memutuskan untuk tetap tumbuh.
+</figcaption>
+</figure>

@@ -6,15 +6,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>{{ site.data.common.title }}</title>
+    {% if page.title %}
+        <title>{{ page.title }} | {{ site.data.common.title }}</title>
+        <meta property="og:title" content="{{ page.title }}">
+    {% else %}
+        <title>{{ site.data.common.title }}</title>
+    {% endif %}
 
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+    {% if page.excerpt %}
+        <meta name="description" content="{{ page.excerpt | strip_html }}">
+        <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="{{ site.data.common.url }}{{ page.url }}">
+    {% endif %}
+
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.data.common.url }}{{ page.image }}">
+    {% endif %}
 
     <!-- Minified simple.css -->
     <link rel="stylesheet" href="/assets/css/simple.min.css">
 
     <!-- custom.css -->
     <link rel="stylesheet" href="/assets/css/custom.css">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 </head>
 <body>
 <header class="header">

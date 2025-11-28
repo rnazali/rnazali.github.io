@@ -7,13 +7,19 @@ layout: default
 {{ content }}
 
 {% if page.categories contains "tenda" %}
-<a class="button" href="/tenda.html" style="margin-top: 2rem;">
+<a class="button"
+   href="/tenda.html#{{ page.url }}"
+   style="margin-top: 2rem;"
+>
     <span class="me-1">🏕️</span>
     Ia belum juga tertidur
 </a>
 {% elsif page.categories contains "mimpi" %}
-<a class="button" href="/mimpi.html" style="margin-top: 2rem;">
+<a class="button"
+   href="/mimpi.html#{{ page.url }}"
+   style="margin-top: 2rem;"
+>
     <span class="me-1">🌒</span>
-    Malam masih terlalu panjang untuknya
+    Malam masih panjang
 </a>
 {% endif %}
