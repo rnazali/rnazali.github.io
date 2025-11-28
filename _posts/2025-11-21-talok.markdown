@@ -2,6 +2,7 @@
 layout: post
 category: tenda
 title:  Talok
+image: /assets/2025-11-21/talok.png
 ---
 
 Sebagian orang menganggapnya merepotkan.
