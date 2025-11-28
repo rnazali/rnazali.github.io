@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: tenda
-title: mil
+categories: [tenda]
+title: Simalakama
 ---
 
 Ever known a narcissist?
