@@ -19,6 +19,10 @@
         <meta property="og:url" content="{{ page.url | relative_url }}">
     {% endif %}
 
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image | relative_url }}">
+    {% endif %}
+
     <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 
     <!-- Minified simple.css -->
