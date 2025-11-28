@@ -16,6 +16,7 @@
     {% if page.excerpt %}
         <meta name="description" content="{{ page.excerpt | strip_html }}">
         <meta property="og:description" content="{{ page.excerpt | strip_html }}">
+        <meta property="og:type" content="article" />
         <meta property="og:url" content="{{ page.url | absolute_url }}">
     {% endif %}
 
