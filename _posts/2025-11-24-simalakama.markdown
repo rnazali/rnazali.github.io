@@ -32,3 +32,8 @@ Kalau _ngempet_-nya kuat, tidak akan timbul masalah, tapi kitanya yang sakit.
 Kalau nggak kuat _ngempet_, ya akan sering ada kejadian.
 
 Maju kena, mundur juga kena.
+
+<figure>
+    <img src="/assets/2025-11-24/simalakama.jpeg" alt="simalakama">
+    <figcaption></figcaption>
+</figure>
