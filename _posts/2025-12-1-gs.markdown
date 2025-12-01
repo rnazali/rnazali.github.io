@@ -1,0 +1,8 @@
+---
+layout: post
+category: tenda
+title: GS
+permalink: /gs
+---
+
+gs
