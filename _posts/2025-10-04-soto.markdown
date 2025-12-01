@@ -1,0 +1,12 @@
+---
+layout: post
+category: tenda
+title:  Soto
+---
+
+Soto yang aku makan kala itu, rasanya 10x lebih enak dari biasanya.
+
+<figure>
+    <img src="/assets/2025-10-04/soto.jpg" alt="soto">
+    <figcaption>Soto</figcaption>
+</figure>
