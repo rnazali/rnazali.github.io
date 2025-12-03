@@ -10,10 +10,9 @@ They will verbally and emotionally abuse you, using put downs, criticism, and in
 
 Then when you stand up for yourself, they come unglued and say you are the toxic one.
 
-Bila ada orang asing datang dengan sifat seperti itu,
-maka obatnya cukup dengan menjauh saja.
-Beri jarak fisik sekitar 50 meter dengannya, pertahankan,
-dan masalah akan hilang seiring dengan berjalannya waktu.
+Obatnya sederhana: yang waras ngalah dengan cara _ngalih_.
+
+Jarak yang timbul ditambah waktu yang berjalan dengan sendirinya akan mengobati luka sekaligus menjaga agar kejadian tersebut tersebut tidak terulang.
 
 Namun bagaimana bila sifat tersebut ada di orang tersayang dari orang yang kita sayangi?
 
