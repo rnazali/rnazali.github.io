@@ -49,7 +49,8 @@ Misalnya, mungkin karena perbedaan umur atau status sosial yang jauh, membuat se
 Seakan seperti lumrahnya orang yang lebih rendah ya harus memendam perasaan seperti ini. Tidak boleh terlihat sedikitpun, apalagi luber.
 Sedangkan lumrahnya orang yang lebih tinggi ya _almighty_, bulan bintang berputar berpusat padanya.
 
-Aku meyakini kalau cinta/kehormatan didapat bukan karena paksaan, melainkan dari saling terbuka dan mengasihi. Maka dengan sendirinya ia akan muncul.
+Aku meyakini kalau cinta/kehormatan didapat bukan karena paksaan, melainkan dari saling terbuka dan mengasihi. 
+Dengan sendirinya ia akan muncul pada hubungan yang sehat.
 
 Selama kedua belah pihak _belum memahami sebab kejadian dan mau untuk berbenah_, maka luber ini pasti akan terjadi lagi di waktu mendatang.
 Tinggal tunggu waktu aja. Mungkin 3 minggu lagi, 3 bulan lagi, 3 tahun lagi.
