@@ -47,6 +47,7 @@ Sementara dengan mudah aku bilang maaf 10x, ditambah cium kaki + jempol misalnya
 Tidak selalu ada jendela yang bisa kita manfaatkan untuk menyampaikan saran-saran perbaikan pada orang tersebut. 
 Misalnya, mungkin karena perbedaan umur atau status sosial yang jauh, membuat seolah tabu kalau "yang rendah menasehati yang lebih tinggi".
 Seakan seperti lumrahnya orang yang lebih rendah ya harus memendam perasaan seperti ini. Tidak boleh terlihat sedikitpun, apalagi luber.
+Sedangkan lumrahnya orang yang lebih tinggi ya _almighty_, bulan bintang berputar berpusat padanya.
 
 Aku meyakini kalau cinta/kehormatan didapat bukan karena paksaan, melainkan dari saling terbuka dan mengasihi. Maka dengan sendirinya ia akan muncul.
 
