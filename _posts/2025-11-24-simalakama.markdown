@@ -40,17 +40,23 @@ Yang sakit agar bisa lebih belajar untuk lebih tidak gampang sakit, melebarkan m
 
 Yang menyakiti agar bisa paham kalau suka tidak suka, apapun status diantara mereka, perbuatannya telah menyakiti lawannya.
 
-Aku kira ucapan maaf di sini tidak terlalu penting, karena di level ini "maaf" itu tidak bernilai lebih dari sekdar ritual saja.
-Dengan mudah manusia bilang maaf 10x, ditambah cium kaki + jempolnya. Tapi ya sekedar sampai disitu saja, tidak ada perbaikan. 
-Seakan seperti lumrahnya perasaan seperti ini ya harusnya kamu pendam terus, tidak boleh terlihat sedikitpun oleh orang lain.
+Aku kira ucapan maaf dariku padanya tidak terlalu penting, karena di level ini "maaf" tidak bernilai lebih dari sekedar ritual saja.
+Kalau belum dimintakan maaf, rutinitas belum akan kembali seperti semula.
+Sementara dengan mudah aku bilang maaf 10x, ditambah cium kaki + jempol misalnya. Tapi ya sekedar sampai disitu saja, tidak ada perbaikan. 
 
-Tapi selama kedua belah pihak _belum memahami sebab kejadian dan mau untuk berbenah_, maka luber ini pasti akan terjadi lagi di waktu mendatang.
+Tidak selalu ada jendela yang bisa kita manfaatkan untuk menyampaikan saran-saran perbaikan pada orang tersebut. 
+Misalnya, mungkin karena perbedaan umur atau status sosial yang jauh, membuat seolah tabu kalau "yang rendah menasehati yang lebih tinggi".
+Seakan seperti lumrahnya orang yang lebih rendah ya harus memendam perasaan seperti ini. Tidak boleh terlihat sedikitpun, apalagi luber.
+
+Aku meyakini kalau cinta/kehormatan didapat bukan karena paksaan, melainkan dari saling terbuka dan mengasihi. Maka dengan sendirinya ia akan muncul.
+
+Selama kedua belah pihak _belum memahami sebab kejadian dan mau untuk berbenah_, maka luber ini pasti akan terjadi lagi di waktu mendatang.
 Tinggal tunggu waktu aja. Mungkin 3 minggu lagi, 3 bulan lagi, 3 tahun lagi.
 
-Saat terjadi lagi, ritualnya sama: maaf.
+Saat terjadi lagi, ritualnya ya sama: maaf.
 
 Menurutku semua manusia berhak untuk sakit hati, tidak hanya orang dengan status tertentu saja.
-Manusia tidak berhak untuk dicap salah hanya karena mengungkapkan rasa sakit hatinya.
+Manusia juga berhak untuk mengungkapkan rasa sakit hatinya tanpa dicap salah.
 
 Kalau berani menyakiti, ya jangan kaget kalau yang disakiti bilang _sakit_.
 Kalau tidak mau basah kena luberan orang lain, ya jangan buat orang lain luber.
