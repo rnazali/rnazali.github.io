@@ -18,34 +18,45 @@ Namun bagaimana bila sifat tersebut ada di _orang tersayang_ dari _orang yang ki
 
 Sepertinya tidak mungkin jurus jaga jarak tadi diaplikasikan disini.
 
-Terlalu lama menjauh, maka akan terasa hawa perang dingin, not really my style 😅
+Terlalu lama menjauh, maka akan terasa hawa perang dingin. Not really my style 😅
 
-Terlalu dipaksakan berdekatan, kitanya juga yang repot karena kebagian _ngempet_-nya.
+Terlalu dipaksa berdekatan, kitanya juga yang repot karena kebagian _ngempet_-nya.
 
 Sedikit demi sedikit _ngempet_, lama-lama ya datang saatnya luber juga.
 
 Saat kita luber, biasanya orang-orang tersebut kaget dengan luberan air ini. 
 
 "Kok kamu tega gini sama aku?", ucapan umum yang menyertai sakit hati mereka. 
-Beratnya, tidak hanya orang tersebut yang sakit tapi orang-orang yang kita sayangi tadi juga ikut sakit.
+Lebih beratnya, tidak hanya orang tersebut yang sakit tapi orang-orang terdekatnya ikut sakit. Jadi merasa bersalah deh udah luber.
 
-Kenapa ya, kok bisa-bisanya kita yang jadi dicap salah hanya karena meluapkan isi hati kita kalau "aku sakit lho" 😅
+Tapi kenapa ya, kok bisa-bisanya kita yang jadi dicap salah hanya karena meluapkan isi hati kita, sekedar mau bilang kalau "aku sakit lho" 😅
 
-Pada hubungan sosial yang sehat, bukankah hal tersebut justru berharga ya? Menandakan bahwa ada kesempatan **kedua belah pihak** untuk berubah menjadi lebih baik.
+Pada hubungan sosial yang sehat, bukankah hal tersebut justru berharga ya? Menandakan bahwa muncul kesempatan **kedua belah pihak** untuk berubah menjadi lebih baik.
 
 Yang sakit agar bisa lebih belajar untuk lebih tidak gampang sakit, melebarkan mangkoknya agar tidak sering luber lagi.
 
 Yang menyakiti agar bisa paham kalau suka tidak suka, apapun status diantara mereka, perbuatannya telah menyakiti lawannya.
 
-Aku kira ucapan maaf itu tidak terlalu penting, karena di level ini "maaf" itu hanya bernilai ritual saja. 
-Dengan mudah kita bilang maaf 10x, cium kaki + jempol kaki, tapi ya sampai disitu saja, tidak ada perbaikan.
+Aku kira ucapan maaf di sini tidak terlalu penting, karena di level ini "maaf" itu tidak bernilai lebih dari sekdar ritual saja.
+Dengan mudah manusia bilang maaf 10x, ditambah cium kaki + jempolnya. Tapi ya sekedar sampai disitu saja, tidak ada perbaikan. 
+Seakan seperti lumrahnya perasaan seperti ini ya harusnya kamu pendam terus, tidak boleh terlihat sedikitpun oleh orang lain.
 
-Tapi selama kedua belah pihak _belum memahami sebab kejadian dan mau untuk berbenah_, maka luber ini akan terjadi lagi di waktu mendatang.
+Tapi selama kedua belah pihak _belum memahami sebab kejadian dan mau untuk berbenah_, maka luber ini pasti akan terjadi lagi di waktu mendatang.
+Tinggal tunggu waktu aja. Mungkin 3 minggu lagi, 3 bulan lagi, 3 tahun lagi.
 
 Saat terjadi lagi, ritualnya sama: maaf.
 
-Menuurtku semua manusia berhak untuk sakit hati, tidak hanya orang tertentu saja. 
+Menurutku semua manusia berhak untuk sakit hati, tidak hanya orang dengan status tertentu saja.
 Manusia tidak berhak untuk dicap salah hanya karena mengungkapkan rasa sakit hatinya.
+
+Kalau berani menyakiti, ya jangan kaget kalau yang disakiti bilang _sakit_.
+Kalau tidak mau basah kena luberan orang lain, ya jangan buat orang lain luber.
+Kalau kedua opsi di atas tidak mampu, entah karena keterbatasan atau sesuatu yang sengaja dibuat sebagai keterbatasan, bukankah alangkah baiknya diam?
+
+Lihatlah orang yang diuji dengan kondisi bisu. Ia tidak bisa bernyanyi, namun _at least_ lisannya tidak menyakiti orang lain.
+Bahkan orang bisu jauh lebih mulia dari sudut pandang penilaianku dibanding orang yang lisannya suka menyakiti.
+
+Thanks for reminding me why I don't feel guilty that I can't stand you.
 
 <figure>
     <img src="/assets/2025-11-24/simalakama.jpeg" alt="simalakama">
