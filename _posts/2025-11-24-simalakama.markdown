@@ -27,7 +27,10 @@ Sedikit demi sedikit _ngempet_, lama-lama ya datang saatnya luber juga.
 Saat kita luber, biasanya orang-orang tersebut kaget dengan luberan air ini. 
 
 "Kok kamu tega gini sama aku?", ucapan umum yang menyertai sakit hati mereka. 
-Lebih beratnya, tidak hanya orang tersebut yang sakit tapi orang-orang terdekatnya ikut sakit. Jadi merasa bersalah deh udah luber.
+Lebih beratnya lagi, tidak hanya orang tersebut yang sakit tapi orang-orang terdekatnya ikut sakit, 
+yang mana orang-orang ini mungkin orang yang kita sayangi juga. 
+
+Jadi merasa bersalah deh udah luber.
 
 Tapi kenapa ya, kok bisa-bisanya kita yang jadi dicap salah hanya karena meluapkan isi hati kita, sekedar mau bilang kalau "aku sakit lho" 😅
 
