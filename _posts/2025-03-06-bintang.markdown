@@ -14,9 +14,9 @@ category: tenda
 
 色鮮やかに 輝く想いを いつか伝えたいよ 😊
 
-> 新谷良子 - 星
-
 <figure>
     <img src="/assets/2025-03-06/star.png" alt="star">
     <figcaption></figcaption>
 </figure>
+
+<small>新谷良子 - 星</small>
