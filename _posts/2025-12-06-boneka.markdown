@@ -2,5 +2,10 @@
 layout: post
 categories: [tenda]
 title: Boneka
+---
 
-wip
+
+<figure>
+    <img src="/assets/2025-12-06/boneka.jpeg" alt="boneka">
+    <figcaption></figcaption>
+</figure>
