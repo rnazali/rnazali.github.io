@@ -19,4 +19,4 @@ category: tenda
     <figcaption></figcaption>
 </figure>
 
-<small>新谷良子 - 星</small>
+<small style="font-size: :0.875rem;">新谷良子 - 星</small>
