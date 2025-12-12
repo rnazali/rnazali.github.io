@@ -14,8 +14,8 @@ In honor of fatmanP, who brought an invaluable beat to my world.
 </figure>
 
 <figure>
-    <video width="640" height="360" controls>
-        <source src="/assets/2010-05-09/Megurine Luka - Spring Rain.mp4" type="video/mp4">
-    </video>
-    <figcaption>fatmanP - Spring Rain</figcaption>
+    <audio controls loop style="padding-top: 1rem;">
+        <source src="/assets/2010-05-09/fatmanP%20-%20Melodramatic%20sound.mp3">
+    </audio>
+    <figcaption>voiceless version</figcaption>
 </figure>
