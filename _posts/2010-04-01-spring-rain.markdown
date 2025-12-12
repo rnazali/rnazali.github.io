@@ -20,7 +20,7 @@ Sampai sekarang pun, mendengarkan nadanya akan mengingatkanku kembali ke bangku 
 > 
 > biarlah air hujan ini menyapu
 > 
-> dan mencampuradukkan segalanya
+> mencampuradukkan segalanya
 
 <figure>
     <video width="640" height="360" controls>
