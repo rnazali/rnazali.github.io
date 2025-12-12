@@ -1,0 +1,30 @@
+---
+layout: post
+category: tenda
+title: Hujan
+---
+
+Kala itu diriku di bangku SMA.
+
+Setiap pagi berangkat naik motor sembari mendengarkan musik dengan earphone.
+
+Selalu saat melewati suatu tempat itu, selalu bertepatan saat lagu ini mulai berbunyi.
+
+Suatu pagi yang kebetulan sedang hujan rintik, penuh rasa syahdu, lagu itu terasa lebih menyentuh dari biasanya.
+
+Sampai sekarang pun, mendengarkan nadanya akan mengingatkanku kembali ke bangku SMA yang penuh makna.
+
+> di bawah pohon dengan bunga bermekaran
+> 
+> wajah tangismu terlihat sangat cantik
+> 
+> biarlah air hujan ini menyapu
+> 
+> dan mencampuradukkan segalanya
+
+<figure>
+    <video width="640" height="360" controls>
+        <source src="/assets/2010-04-01/Megurine Luka - Spring Rain.mp4" type="video/mp4">
+    </video>
+    <figcaption>fatmanP - Spring Rain</figcaption>
+</figure>
