@@ -12,7 +12,9 @@ Selalu saat melewati suatu tempat itu, selalu bertepatan saat lagu ini mulai ber
 
 Suatu pagi yang kebetulan sedang hujan rintik, penuh rasa syahdu, lagu itu terasa lebih menyentuh dari biasanya.
 
-Sampai sekarang pun, mendengarkan nadanya akan mengingatkanku kembali ke bangku SMA yang penuh makna.
+Sampai sekarang pun, mendengarkan nadanya akan mengingatkanku kembali ...
+
+ke bangku SMA yang penuh makna.
 
 > di bawah pohon dengan bunga bermekaran
 > 
