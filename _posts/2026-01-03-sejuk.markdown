@@ -1,0 +1,12 @@
+---
+layout: post
+categories: [tenda]
+title: Sejuk
+---
+
+For a brief moment, I was 12 years old and I had no worries.
+
+<figure>
+    <img src="/assets/2026-01-03/sejuk.jpg" alt="sejuk">
+    <figcaption></figcaption>
+</figure>
