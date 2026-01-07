@@ -1,10 +1,10 @@
 ---
 layout: post
 category: tenda
-title: Melodramatic
+title: Melodrama
 ---
 
-In honor of fatmanP, who brought an invaluable beat to my world.
+Terima kasih fatmanP, atas melodi indah yang telah mewarnai duniaku.
 
 <figure>
     <video width="640" height="360" controls>
