@@ -1,7 +1,7 @@
 ---
 layout: post
 category: tenda
-title:  Usaha
+title:  Ujian
 ---
 
 Secara random, aku menemukan seorang bernama [Awan Gunawan](https://www.instagram.com/pacorstory/){:target="_blank"}
