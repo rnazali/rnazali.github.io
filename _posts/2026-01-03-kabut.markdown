@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [tenda]
-title: Sejuk
+title: Kabut
 ---
 
 For a brief moment, I was 12 years old and I had no worries.

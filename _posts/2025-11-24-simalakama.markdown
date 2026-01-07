@@ -16,7 +16,7 @@ Jarak yang timbul ditambah waktu yang berjalan dengan sendirinya akan mengobati 
 
 Namun bagaimana bila sifat tersebut ada di _orang tersayang_ dari _orang yang kita sayangi_?
 
-Sepertinya tidak mungkin jurus jaga jarak tadi diaplikasikan disini.
+Sepertinya tidak mungkin jurus jaga jarak tadi diaplikasikan di sini.
 
 Terlalu lama menjauh, maka akan terasa hawa perang dingin. Not really my style 😅
 
