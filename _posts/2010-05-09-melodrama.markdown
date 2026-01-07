@@ -4,7 +4,16 @@ category: tenda
 title: Melodrama
 ---
 
-Terima kasih fatmanP, atas melodi indah yang telah mewarnai duniaku.
+Melodi indah yang kau ciptakan telah mewarnai duniaku.
+
+Sepertinya kemungkinan kecil kita dapat bertemu, setelah mengetahu dirimu yang sudah tak lagi aktif berkarya.
+
+Oleh karenanya, izinkan aku mengabadikan karyamu di sini. 
+
+Barangkali suatu saat kelak, bukan orang sekitarku - melainkan dirimu sendiri - yang akan membuka halaman ini kemudian membaca tulisanku, 
+hingga akhirnya sampailah perasaanku ini padamu.
+
+Terima kasih, fatmanP.
 
 <figure>
     <video width="640" height="360" controls>
