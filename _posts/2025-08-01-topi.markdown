@@ -4,7 +4,7 @@ category: tenda
 title: Topi
 ---
 
-"Yang ada bulatan di kepalanya itu siapa ya?"
+Ada bulatan di kepala itu apa ya?
 
 "Itu aku pakai topi!"
 
