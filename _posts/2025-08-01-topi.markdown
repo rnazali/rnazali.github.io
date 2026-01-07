@@ -1,7 +1,7 @@
 ---
 layout: post
 category: tenda
-title: Bersama
+title: Topi
 ---
 
 "Yang ada bulatan di kepalanya itu siapa ya?"
