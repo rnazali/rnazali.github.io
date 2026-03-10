@@ -1,0 +1,16 @@
+---
+layout: post
+categories: [tenda]
+title: Sunrise
+---
+
+Someday, when I am only a quiet memory carried by the wind of your years, 
+I hope the sunrise will remind you of this moment—your hand in mine, 
+a small flower trembling in the morning light—and you will know that once, 
+at the dawn of the world, 
+a father stood beside his daughter and wished he could hold that moment forever. 🌅🌼🤍
+
+<figure>
+    <img src="/assets/2026-03-10/sunrise.jpg" alt="sunrise">
+    <figcaption></figcaption>
+</figure>
