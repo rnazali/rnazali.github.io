@@ -4,8 +4,6 @@ category: tenda
 title: The Weaver
 ---
 
-> God writes a story I cannot yet read. I trust the weaver of the sun and rain.
-
 The threads on the loom made no sense to Elian.
 
 From where he sat on the dusty floor, looking up at the bottom of the frame, the tapestry was a chaotic mess. There were jagged lines of dark charcoal wool, knots of harsh crimson, and long patches of empty gray.
